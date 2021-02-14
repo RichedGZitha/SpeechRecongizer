@@ -4,7 +4,7 @@
 
 The aim of this project was to create a voice assistance that up recieving a voice command can execute a task.
 
-## Features:
+# Features:
 1. Search major search engines and websites: Google, Bing, Duckduckgo, Wikipedia and Youtube.
 
 2. Make a Joke: Uses pyjokes to prints and recite a programming joke.
@@ -14,19 +14,19 @@ The aim of this project was to create a voice assistance that up recieving a voi
 4. Exits the program.
 
 
-# The search feature:
+## The search feature:
 This works on a two step process of asking 1) the website or search engine 2) the query or question. Then a webbrowser window will be opened with the engine / website output.
 
-1 Simple ask the program: Search <Search enginge or Website> 	
-2 Say the <Question / Query>.
+1. Simple ask the program: Search <Search enginge or Website> 	
+2. Say the <Question / Query>.
 
 e.g. search google 
 	"what is python language?"
 
-# Make a joke feature:
+## Make a joke feature:
 Making a joke is as simple as saying "Make a joke"
 
-# What if .... feature:
+## What if .... feature:
 Simply say "What is <Query / Question>" and the summary will be printed on the terminal and recited to you by the builtin Windows 10 Text to Speech system.
 
 # Supported platform(s):
