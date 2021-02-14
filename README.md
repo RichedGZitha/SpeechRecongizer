@@ -17,7 +17,8 @@ The aim of this project was to create a voice assistance that up recieving a voi
 # The search feature:
 This works on a two step process of asking 1) the website or search engine 2) the query or question. Then a webbrowser window will be opened with the engine / website output.
 
-1.1 Simple ask the program: Search <Search enginge or Website> 	1.1.1 say the <Question / Query>.
+1 Simple ask the program: Search <Search enginge or Website> 	
+2 Say the <Question / Query>.
 
 e.g. search google 
 	"what is python language?"
@@ -28,23 +29,22 @@ Making a joke is as simple as saying "Make a joke"
 # What if .... feature:
 Simply say "What is <Query / Question>" and the summary will be printed on the terminal and recited to you by the builtin Windows 10 Text to Speech system.
 
-
 # Supported platform(s):
 Windows 10
 
-# Install PyAudio
+# Dependencies:
+
+```
+pip install -r requirements.txt
+```
+```
+pip install PyAudio
+```
+
+## Install PyAudio
 You may stuggle to install this package on python 3.+. So I suggest you use this article to install it.
 
-	[Install PyAudio on Python 3.+](https://thetechinfinite.com/2020/07/14/how-to-install-pyaudio-module-in-python-3-0-in-windows/)
-
-
-# Install and setup the project:
-1. clone this repository
-2. open the repository folder
-3. open cmd
-4. create a python virtual environment 
-5. python -m pip install -r requirements.txt , to install the dependencies.
-6. python maain.py , to run the program.
+[Install PyAudio on Python 3.0](https://thetechinfinite.com/2020/07/14/how-to-install-pyaudio-module-in-python-3-0-in-windows/)
 
 
 # Fork this project.
