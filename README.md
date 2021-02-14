@@ -44,7 +44,7 @@ pip install PyAudio
 ## Install PyAudio
 You may stuggle to install this package on python 3.+. So I suggest you use this article to install it.
 
-[Install PyAudio on Python 3.0](https://thetechinfinite.com/2020/07/14/how-to-install-pyaudio-module-in-python-3-0-in-windows/)
+[Install PyAudio on Python 3.0](https://thetechinfinite.com/2020/07/14/how-to-install-pyaudio-module-in-python-3-0-in-windows/))
 
 
 # Fork this project.
