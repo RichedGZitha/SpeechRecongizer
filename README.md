@@ -1,6 +1,6 @@
 # Speech Recogizer
 
-** [Website](https://equitek.herokuapp.com) **
+**[Website](https://equitek.herokuapp.com)**
 
 The aim of this project was to create a voice assistance that up recieving a voice command can execute a task.
 
